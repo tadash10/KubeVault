@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Kubernetes Secrets Management Script
+secrets.ini
